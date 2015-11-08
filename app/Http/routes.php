@@ -11,5 +11,4 @@
 |
 */
 
-Route::get('user/{id}', 'UserController@showProfile');
-Route::get('Article/{id}', 'ArticlesController@index');
+Route::get('/', 'ArticlesController@index');

@@ -15,7 +15,7 @@ class ArticlesController extends Controller
      */
     public function index()
     {
-        return view('welcome.blade.php');
+        return view('index');
     }
 
     /**

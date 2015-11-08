@@ -273,8 +273,8 @@ a.toggleMenu {
   display: inline-block;
 }
 .social_icons  li {
-list-style:none;
-display:inline-block;
+	list-style:none;
+	display:inline-block;
 }
 i.facebook {
   background-position: -241px -5px;
