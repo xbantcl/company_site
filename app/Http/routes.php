@@ -11,4 +11,5 @@
 |
 */
 
-Route::get('/', 'ArticlesController@index');
+Route::get('/', 'IndexController@index');
+Route::get('/proudct/show', 'UserController@showProfile');

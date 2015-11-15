@@ -512,8 +512,7 @@ i.cloud {
 }
 /*----mid-section----*/
 .mid-section {
-   padding: 4em 0;
-  border-top: double #ddd;
+  padding: 1em 0;
   border-bottom: double #ddd;
 }
 .mid-top {
@@ -646,8 +645,7 @@ margin:0.5em 0;
 }
 /*----mid-section----*/
 .bottom-section {
-   padding: 4em 0;
-  border-top: double #ddd;
+  padding: 1em 0;
   border-bottom: double #ddd;
 }
 .bottom-top {

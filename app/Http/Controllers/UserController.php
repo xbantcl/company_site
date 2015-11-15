@@ -12,8 +12,8 @@ class UserController extends Controller
      * @param  int  $id
      * @return Response
      */
-    public function showProfile($id)
+    public function showProfile()
     {
-        return view('welcome');
+        return view('portfolio');
     }
 }

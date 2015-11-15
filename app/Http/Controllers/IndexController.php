@@ -5,9 +5,14 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
+use App\Modules\FeatureModule;
 
-class ArticlesController extends Controller
+class IndexController extends Controller
 {
+    public function __construct(FeatureModule $featureModule)
+    {
+        $this->featureModule = $featureModule;
+    }
     /**
      * Display a listing of the resource.
      *
@@ -15,7 +20,8 @@ class ArticlesController extends Controller
      */
     public function index()
     {
-        return view('index');
+        $features = $this->featureModule->getFeatures();
+        return view('index', $features);
     }
 
     /**

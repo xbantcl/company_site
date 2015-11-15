@@ -5,8 +5,8 @@
     <div class="container">
         <div class="grid-1">
             <div class="col-md-5 left-grid-1 wow bounceInLeft" data-wow-delay="0.4s">
-                <h1>欢迎</h1>	
-                <h2>参观</h2><h3>成都</h3>
+                <h1>欢迎</h1>
+                <h2>参观</h2><h3>森瑞</h3>
             </div>
             <div class="col-md-7 right-grid-1 wow bounceInRight" data-wow-delay="0.7s">
                 <div class="slider">
@@ -129,22 +129,11 @@
 	</div>
 </div>
 <!--//end-services-->
-	<!--start-mid-section-->
-	<div class="container">
-		<div class="mid-section">
-				<div class="mid-top wow fadeInUpBig animated animated" data-wow-delay="0.4s">
-					<div class="col-md-10 mid-text">
-					 <h3>Hi there. I am a theme, with attitude. I am also responsive, easy do edit. Why don't you try me ?</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla vel dolor  blandit nec Quisque quis nulla vel dolor ultrices sit amet.</p>
-					</div>
-					<div class="col-md-2 mid-button">
-						<a href="#">BUY NOW !</a>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-		</div>
-    <!--//end-mid-section-->  
+    <!--start-mid-section-->
+    <div class="container">
+        <div class="mid-section"></div>
+    </div>
+    <!--//end-mid-section-->
     <div class="copyrights">Collect from <a href="http://www.cssmoban.com/" >网页模板</a></div>
 	<!--/port-section-->
 	<div id="features" class="port-section">
@@ -152,7 +141,7 @@
 		<h2>THE PORTFOLIO</h2>
 			<div class="port-grids">
 				<div class="col-md-3 port-grid wow zoomInLeft animated">
-					<a href="portfolio.html"><img src="images/p1.jpg" class="img-responsive" alt="" /></a>
+					<a href="/proudct/show"><img src="images/p1.jpg" class="img-responsive" alt="" /></a>
 					<div class="box_type">WEB DESIGN</div>
 					<div class="box-hover">
 						<ul class="port-icons">
@@ -211,20 +200,11 @@
 			</div>
 		</div>
 	</div>
-	<!--start-bottom-section-->
-		<div class="container">
-			<div class="bottom-section">
-					<div class="bottom-top wow fadeInDownBig animated animated" data-wow-delay="0.4s">
-						<div class="col-md-10 bottom-text">
-						 <h3>Subscribe to our newsletter. We hate spam as much as you do, so no worries.</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla vel dolor  blandit nec Quisque quis nulla vel dolor ultrices sit amet.</p>
-						</div>
-						<div class="col-md-2 story"><h4 class="stories"><span><a href="#"><img src="images/mail.png" class="img-responsive" alt="" /></a></span></h4></div>
-						<div class="clearfix"></div>
-					</div>
-				</div>
-			</div>
-    <!--//end-bottom-section--> 
+    <!--start-bottom-section-->
+    <div class="container">
+        <div class="bottom-section"></div>
+    </div>
+    <!--//end-bottom-section-->
 	<!--/start-blog-section-->
 	<div id="blog" class="blog-section">
 		<div class="container">

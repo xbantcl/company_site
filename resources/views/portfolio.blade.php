@@ -2,11 +2,11 @@
 <html>
 <head>
 <title>Portfolio</title>
-<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="js/jquery.min.js"></script>
+<script src="/js/jquery.min.js"></script>
 <!-- Custom Theme files -->
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -17,15 +17,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href='http://fonts.useso.com/css?family=Oswald:400,700,300|Open+Sans:300italic,400italic,600italic,400,300,600,700' rel='stylesheet' type='text/css'>
 <!--//webfont-->
 <!--Animation-->
-<script src="js/wow.min.js"></script>
-<link href="css/animate.css" rel='stylesheet' type='text/css' />
+<script src="/js/wow.min.js"></script>
+<link href="/css/animate.css" rel='stylesheet' type='text/css' />
 <script>
 	new WOW().init();
 </script>
 <!--Light-Box-->
-	<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
-    <link rel="stylesheet" href="css/swipebox.css">
-    <script src="js/jquery.swipebox.min.js"></script> 
+	<script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
+    <link rel="stylesheet" href="/css/swipebox.css">
+    <script src="/js/jquery.swipebox.min.js"></script> 
     <script type="text/javascript">
 		jQuery(function($) {
 			$(".swipebox").swipebox();
@@ -33,7 +33,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</script>
     <!--End-Light-Box-->
 	 <!--Script-for-gallery-Here-->
-				<script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
+				<script type="text/javascript" src="/js/jquery.mixitup.min.js"></script>
 					<script type="text/javascript">
 					$(function () {
 						
@@ -87,14 +87,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
  	<div class="container">
 	  <div class="header-top">
 	        <div class="logo wow bounceInLeft" data-wow-delay="0.4s">
-				<a href="index.html"><img src="images/logo.png" alt=""/></a>
+				<a href="index.html"><img src="/images/logo.png" alt=""/></a>
 			 </div>
 		     <div class="h_menu4"><!-- start h_menu4 -->
 				<a class="toggleMenu" href="#">Menu</a>
 				<ul class="nav">
-					<li class="active"><a href="index.html">Home</a></li>
+					<li class="active"><a href="/">Home</a></li>
 						<li><a href="index.html">About</a></li>
-						<li><a href="portfolio.html">Portfolio</a>
+						<li><a href="/proudct/show">Portfolio</a>
 						<li><a href="feature.html">Features</a>
 							<ul>
 								<li><a href="feature.html">Typography</a></li>
@@ -109,7 +109,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><a href="contact.html">Contact</a></li>
 
 				</ul>
-				<script type="text/javascript" src="js/nav.js"></script>
+				<script type="text/javascript" src="/js/nav.js"></script>
 			</div><!-- end h_menu4 -->
 			<div class="social_icons wow bounceInRight" data-wow-delay="0.4s">
 					<ul>
@@ -148,19 +148,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div id="portfoliolist">
 					<div class="portfolio card mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="card" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s1.jpg" class="swipebox"  title="Image Title"> <img src="images/s1.jpg" class="img-responsive" alt=""><span class="zoom-icon"> </span> </a> </a>
+							 <a href="/images/s1.jpg" class="swipebox"  title="Image Title"> <img src="/images/s1.jpg" class="img-responsive" alt=""><span class="zoom-icon"> </span> </a> </a>
 
 		                </div>
 					</div>				
 					<div class="portfolio app mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="app" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s2.jpg" class="swipebox"  title="Image Title"> <img src="images/s2.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="//images/s2.jpg" class="swipebox"  title="Image Title"> <img src="/images/s2.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 					</div>					
 					<div class="portfolio icon mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="icon" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s6.jpg" class="swipebox"  title="Image Title"> <img src="images/s6.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="//images/s6.jpg" class="swipebox"  title="Image Title"> <img src="/images/s6.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 
@@ -168,55 +168,55 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					
 					<div class="portfolio app mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="app" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s4.jpg" class="swipebox"  title="Image Title"> <img src="images/s4.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="/images/s4.jpg" class="swipebox"  title="Image Title"> <img src="/images/s4.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 					</div>			
 					<div class="portfolio card mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="card" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s5.jpg" class="swipebox"  title="Image Title"> <img src="images/s5.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="/images/s5.jpg" class="swipebox"  title="Image Title"> <img src="/images/s5.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 					</div>	
 					<div class="portfolio card mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="card" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s3.jpg" class="swipebox"  title="Image Title"> <img src="images/s3.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="/images/s3.jpg" class="swipebox"  title="Image Title"> <img src="/images/s3.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 					</div>	
 					<div class="portfolio icon mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="icon" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s1.jpg" class="swipebox"  title="Image Title"> <img src="images/s1.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="/images/s1.jpg" class="swipebox"  title="Image Title"> <img src="/images/s1.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 						</div>
 						<div class="portfolio logos mix_all wow bounceIn" data-wow-delay="0.4s" data-cat="logos" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s2.jpg" class="swipebox"  title="Image Title"> <img src="images/s2.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="/images/s2.jpg" class="swipebox"  title="Image Title"> <img src="/images/s2.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 					</div>
 						<div class="portfolio logos mix_all wow bounceIn" data-wow-delay="0.4s" data-cat="logos" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s6.jpg" class="swipebox"  title="Image Title"> <img src="images/s6.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="/images/s6.jpg" class="swipebox"  title="Image Title"> <img src="/images/s6.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 					</div>
 					<div class="portfolio app mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="app" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s4.jpg" class="swipebox"  title="Image Title"> <img src="images/s4.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="/images/s4.jpg" class="swipebox"  title="Image Title"> <img src="/images/s4.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 					</div>
 					<div class="portfolio icon mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="icon" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s5.jpg" class="swipebox"  title="Image Title"> <img src="images/s5.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="/images/s5.jpg" class="swipebox"  title="Image Title"> <img src="/images/s5.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>	
 						</div>
 					<div class="portfolio card mix_all  wow bounceIn" data-wow-delay="0.4s" data-cat="card" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper grid_box">		
-							 <a href="images/s3.jpg" class="swipebox"  title="Image Title"> <img src="images/s3.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
+							 <a href="/images/s3.jpg" class="swipebox"  title="Image Title"> <img src="/images/s3.jpg" class="img-responsive" alt=""><span class="zoom-icon"></span> </a>
 
 		                </div>
 					</div>					
@@ -278,24 +278,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="border2"></div>
 								<div class="flickr-grids">
 										<div class="flickr-grid">
-											<a href="#"><img src="images/f1.png" alt=" " title="CEO" /></a>
+											<a href="#"><img src="/images/f1.png" alt=" " title="CEO" /></a>
 										</div>
 										<div class="flickr-grid">
-											<a href="#"><img src="images/f2.png" alt=" " title="GM" /></a>
+											<a href="#"><img src="/images/f2.png" alt=" " title="GM" /></a>
 										</div>
 										<div class="flickr-grid">
-											<a href="#"><img src="images/f3.png" alt=" " title="CEO" /></a>
+											<a href="#"><img src="/images/f3.png" alt=" " title="CEO" /></a>
 										</div>
 										<div class="clearfix"> </div>
 										
 										<div class="flickr-grid">
-											<a href="#"><img src="images/f4.png" alt=" " title="GM" /></a>
+											<a href="#"><img src="/images/f4.png" alt=" " title="GM" /></a>
 										</div>
 										<div class="flickr-grid">
-											<a href="#"><img src="images/f3.png" alt=" " title="CEO" /></a>
+											<a href="#"><img src="/images/f3.png" alt=" " title="CEO" /></a>
 										</div>
 										<div class="flickr-grid">
-											<a href="#"><img src="images/f2.png" alt=" " title="GM" /></a>
+											<a href="#"><img src="/images/f2.png" alt=" " title="GM" /></a>
 										</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -308,7 +308,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!--/start-copyright-section-->
 				<div class="copyright">
 					<div class="container">
-					<div class="logo2  wow bounceInLeft" data-wow-delay="0.4s"><a href="index.html"><img src="images/logo2.png" alt=""/ title="logo" /></a></div>
+					<div class="logo2  wow bounceInLeft" data-wow-delay="0.4s"><a href="index.html"><img src="/images/logo2.png" alt=""/ title="logo" /></a></div>
 					<p class="write  wow bounceInRight" data-wow-delay="0.4s">Copyright &copy; 2015.Company name All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a></p>
 					</div>
 					<div class="clearfix"></div>
@@ -316,8 +316,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			
 			<!--//end-copyright-section-->
 			<!--start-smoth-scrolling-->
-			<script type="text/javascript" src="js/move-top.js"></script>
-			<script type="text/javascript" src="js/easing.js"></script>
+			<script type="text/javascript" src="/js/move-top.js"></script>
+			<script type="text/javascript" src="/js/easing.js"></script>
 			<script type="text/javascript">
 								jQuery(document).ready(function($) {
 									$(".scroll").click(function(event){		

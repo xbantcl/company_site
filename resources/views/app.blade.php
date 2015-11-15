@@ -34,9 +34,9 @@
                 <div class="h_menu4">
                     <a class="toggleMenu" href="#">Menu</a>
                     <ul class="nav">
-                        <li class="active"><a class="scroll" href="index.html">Home</a></li>
-                        <li><a href="#about" class="scroll">About</a></li>
-                        <li><a href="portfolio.html">Portfolio</a>
+                        <li class="active"><a class="scroll" href="/">首頁</a></li>
+                        <li><a href="#about" class="scroll">關於成瑞</a></li>
+                        <li><a href="/proudct/show">產品展示</a>
                         <li><a href="feature.html">Features</a>
                             <ul>
                                 <li><a href="feature.html">Typography</a></li>
@@ -47,7 +47,6 @@
                                 <li><a href="feature.html">Services</a></li>
                             </ul>
                         </li>
-                        <li><a href="#blog" class="scroll">Blog</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
                     <script type="text/javascript" src="js/nav.js"></script>
